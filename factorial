@@ -9,6 +9,6 @@ function getFactorial(number = 0) {
     return factorial;
 }
 
-const num = 6; // Інше число для прикладу
+const num = 6;
 
-console.log(getFactorial(num)); // Результат: 720
+console.log(getFactorial(num)); 
